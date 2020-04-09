@@ -1,0 +1,197 @@
+/* UNIVERSAL STYLES */
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background: url("https://www.onlygfx.com/wp-content/uploads/2017/04/coffee-ring-2-259x300.png") bottom right fixed no-repeat,
+    url("https://1.bp.blogspot.com/-aLz66ej-zdQ/UVmu0WOQaiI/AAAAAAAAFIM/hLG0Y9cf43c/s1600/wet-graph-paper-seamless-background.jpg") repeat;
+   font-family: 'Open Sans', sans-serif;
+}
+h1,
+h2 {
+    color: #692517;
+    font-family: 'Rubik', sans-serif;
+}
+
+#colors,
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    text-decoration: underline;   
+}
+
+#colors,
+#fonts,
+#text {
+    border: 1px solid #dfbf9f;
+    border-radius: 3em;
+    clear: both;
+    margin: 10px 20px;
+    text-align: center;
+}
+
+/* HEADER AND NAVIGATION STYLES */
+
+header {
+    margin: 0 50px;
+}
+
+header .fa-mug-hot {
+    color: #000;
+}
+
+.cafe-name {
+    float: left;
+    font-size: 32px;
+    text-transform: uppercase;    
+}
+
+.cafe-name,
+nav ul li a {
+    color: #692517;
+    font-family: "Rubik", sans-serif;
+}
+
+nav {
+    float: right;
+    padding-top: 35px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    font-size: 25px;
+    padding: 0 20px; 
+    text-decoration: none;    
+}
+
+li a:hover {
+    background-color: #dfbf9f;
+    border-radius: 3em;
+    padding: 5px; 
+}
+
+/* COLOR GUIDELINES STYLES */
+
+.coffee-no-milk-brown,
+.latte-brown,
+.dark-roast-brown {
+    border-radius: 1em;
+    color: #fff;
+    margin: 10px auto;
+    padding: 5px;
+    width: 50%;
+}
+
+.no-coffee-gray {
+    background-color: #f3f3f3; 
+    border: 2px solid #dfbf9f; 
+    border-radius: 1em;
+    color: #dfbf9f;
+    font-weight: 800;
+    margin: 10px auto;
+    padding: 5px;
+    width: 50%;   
+}
+
+.dark-roast-brown {
+    background-color: #4d2600;
+}
+.coffee-no-milk-brown {
+    background-color: #692517;   
+}
+
+.latte-brown {
+    background-color: #dfbf9f;
+}
+
+#colors ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#colors li {
+    display: inline;
+    padding: 10px;
+}
+
+#colors li a {
+    text-decoration: none;  
+}
+
+/* FONT GUIDELINES STYLES */
+
+.damion {
+    font-family: 'Damion', cursive;
+}
+
+.rubik {
+    font-family: 'Rubik', sans-serif;
+}
+
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.all-caps {
+    text-transform: uppercase;
+}
+
+.highlight {
+    background-color: #dfbf9f;
+    font-weight: 700;
+}
+
+/* TEXT GUIDELINES STYLES */
+
+#text li {
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    padding: 5px;
+}
+
+/* FOOTER STYLES */
+
+footer {
+    padding-top: 5px;
+	text-align: center;
+}
+
+footer p {
+    color: #692517;
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    word-spacing: 1px;
+}
+
+footer .fresh {
+    color: #4d2600;
+	font-family: 'Damion', cursive;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-decoration: underline;
+    text-transform: lowercase;  
+}
+
+
+
